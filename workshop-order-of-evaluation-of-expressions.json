@@ -4,7 +4,6 @@
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-    "title": "Order of Evaluation of Expressions",
     "lesson": "https://www.youtube.com/watch?v=Jlq997yOoRs",
     "tool": "https://solidity.readthedocs.io/en/v0.4.24/control-structures.html#order-of-evaluation-of-expressions",
   
