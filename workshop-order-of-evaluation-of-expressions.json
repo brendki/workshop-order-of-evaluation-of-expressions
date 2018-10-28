@@ -1,0 +1,18 @@
+{
+    "title": "Expressions and Control Structures",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+    "title": "Order of Evaluation of Expressions",
+    "lesson": "https://www.youtube.com/watch?v=Jlq997yOoRs",
+    "tool": "https://solidity.readthedocs.io/en/v0.4.24/control-structures.html#order-of-evaluation-of-expressions",
+  
+      "needs": [
+        "https://github.com/ffakk/workshop-control-structures/workshop.json"
+        "https://github.com/ffakk/workshop-functions-calls/workshop.json"
+    ],
+    "unlocks": [
+      "https://github.com/ffakk/workshop-solidity-advanced-expressions-and-control-structures/workshop.json"
+    ]
+  }
